@@ -4,7 +4,8 @@
 
 ##### Enhancements
 
-* None.  
+* Update default build settings for Xcode 9.  
+  [Samuel Giddins](https://github.com/segiddins)
 
 ##### Bug Fixes
 
